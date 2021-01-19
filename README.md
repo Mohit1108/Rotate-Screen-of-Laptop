@@ -1,6 +1,7 @@
 # Rotate-Screen-of-Laptop
 How To Rotate Screen of PC Using Python? Rotate-Screen 
-| Laptop &amp; PC | M Tech-G | Python | Coding  |
+Laptop &amp; PC | M Tech-G | Python | Coding
+
 https://www.youtube.com/watch?v=vStw7DwVad0   
 
 In This Video ,
